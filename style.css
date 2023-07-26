@@ -1,0 +1,79 @@
+
+
+/*ESERCIZIO 1*/
+.display-4 {
+
+
+}
+
+/*ESERCIZIO 2*/
+.nav  {
+
+   
+}
+
+/*ESERCIZIO 3*/
+.font-weight-bold {
+
+    
+}
+
+/*ESERCIZIO 4*/
+.blog-main h3 + div{
+
+    
+
+}
+
+/*ESERCIZIO 5*/
+.blog-main .blog-post:first-of-type hr {
+
+    border-color: red;
+    
+}
+
+/*ESERCIZIO 6*/
+.nav span:nth-child(even) {
+    
+    color: red;
+
+}
+/*ESERCIZIO 7*/
+.blog-sidebar ol:first-of-type li {
+
+    
+}
+
+/*ESERCIZIO 8*/
+.blog-main .blog-post:nth-child(3) p.blog-post-meta a {
+
+    color: red;
+}
+
+/*ESERCIZIO 9*/
+
+.blog-post:nth-of-type(3) li:nth-of-type(2)  {
+
+    color: red;
+}
+
+/*ESERCIZIO 10*/
+
+.float-right {
+
+    color: red;
+}
+
+/*ESERCIZIO 11*/
+
+.blog-pagination a:nth-of-type(2) {
+    
+    color: red;
+}
+
+/*ESERCIZIO 12*/
+
+.blog-footer a:nth-of-type(2) {
+
+    color: red;
+}
